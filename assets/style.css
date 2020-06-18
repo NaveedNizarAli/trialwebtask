@@ -3112,7 +3112,7 @@ bottom: 0%;
 }
 .features2 .areatext .areatextbtn .areatextfont{
 	position: absolute;
-	width: 90.5%;
+	width: 90%;
 	height: 42.8%;
 	top: 28.5%;
 	font-family: d din.exp;
@@ -3122,7 +3122,7 @@ bottom: 0%;
 	line-height: 12px;
 	display: flex;
 	cursor: pointer;
-	left: 14.22%;
+	left: 5%;
 	align-items: center;
 	text-align: center;
 	letter-spacing: -0.2px;
@@ -3741,7 +3741,7 @@ bottom: 0%;
 }
 .cta3 .cta3font{
 	position: absolute;
-	width: 65%;
+	width: 50%;
 	height: 42.8%;
 	top: 28.5%;
 	font-family: d din.exp;
@@ -3752,7 +3752,7 @@ bottom: 0%;
 	color:  #31333B;
 	display: flex;
 	cursor: pointer;
-	left: 32.69%;
+	left: 25%;
 	align-items: center;
 	text-align: center;
 	letter-spacing: -0.2px;
@@ -4415,7 +4415,7 @@ bottom: 0%;
 }
 .cta4 .button2cta4 .cta4font2{
 	position: absolute;
-	width: 100%;
+	width: 90%;
 	height: 42.8%;
 	top: 28.5%;
 	font-family: d din.exp;
@@ -4488,7 +4488,7 @@ bottom: 0%;
 }
 .downloadcta .btndownload .downloadfont{
 	position: absolute;
-	width: 71.5%;
+	width: 70%;
 	height: 42.8%;
 	top: 28.5%;
 	font-family: d din.exp;
@@ -4499,7 +4499,7 @@ bottom: 0%;
 	color:  #FFFFFF;;
 	display: flex;
 	cursor: pointer;
-	left: 24.2%;
+	left: 15%;
 	align-items: center;
 	text-align: center;
 	letter-spacing: -0.2px;
@@ -4705,7 +4705,7 @@ bottom: 0%;
 .footer .info .phone{
 	position: absolute;
 	height: 36px;
-	left:25%;
+	left:15%;
 	right: 20.37%;
 	top: 0%;
 	font-family: d din.exp;
@@ -4722,7 +4722,7 @@ bottom: 0%;
 .footer .info .email{
 	position: absolute;
 	height: 24px;
-	left: 17%;
+	left:5%;
 	right: 16.67%;
 	top: 64.705%;
 	font-family: d din.exp;
@@ -4740,7 +4740,8 @@ bottom: 0%;
 	position: absolute;
 	height: 24px;
 	width: 60%;
-	left: 23%;
+	left:25%;
+	right: 25%;
 	top: 69.201%;
 	font-family: d din.exp;
 	font-style: normal;
@@ -5211,9 +5212,11 @@ bottom: 0%;
 }
 .header .signupbutton .signupfont{
 	position: absolute;
-	width: 63.4%;
+	width: 60%;
 	height: 42.8%;
 	top: 28.5%;
+	left: 20%;
+	right: 20%;
 	font-family: d din.exp;
 	font-style: normal;
 	font-weight: normal;
@@ -5221,8 +5224,7 @@ bottom: 0%;
 	line-height: 12px;
 	display: flex;
 	cursor: pointer;
-	left: 28.4%;
-	align-items: center;
+	align-self: center;
 	text-align: center;
 	letter-spacing: -0.2px;
 	color: #FFFFFF;
