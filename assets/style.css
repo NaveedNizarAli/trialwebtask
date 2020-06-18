@@ -38,7 +38,7 @@
 	height: 58.8%;
 }
 
-.header .logo .icon{
+.header .navigation  .logo .icon{
 	position: absolute;
 	left: 0%;
 	right: 69.51%;
@@ -49,7 +49,7 @@
 
 }
 
-.header .logo .icon .vector{
+.header .navigation  .logo .icon .vector{
 	position: absolute;
 	left: 0%;
 	right: 9.03%;
@@ -58,7 +58,7 @@
 	height: 100%;
 	bottom: 0%;
 }
-.header .logo .icon .vector1{
+.header .navigation  .logo .icon .vector1{
 	position: absolute;
 	left: 76.5%;
 	right: 0%;
@@ -67,7 +67,7 @@
 	width: 28.54%;
 	bottom: 45.63%;
 }
-.header .logo .icon .vector2{
+.header .navigation  .logo .icon .vector2{
 	position: absolute;
 	left: 23.49%;
 	right: 62.05%;
@@ -76,7 +76,7 @@
 	width: 15%;
 	height: 39.6%;
 }
-.header .logo .icon .vector3{
+.header .navigation  .logo .icon .vector3{
 	position: absolute;
 	left: 9.03%;
 	right: 86.16%;
@@ -4586,7 +4586,7 @@ bottom: 0%;
 	position: absolute;
 	left: 76.5%;
 	right: 0%;
-	top: 16.02%;
+	top: 22.02%;
 	height: 38%; 
 	width: 28.54%;
 	bottom: 45.63%;
@@ -4595,7 +4595,7 @@ bottom: 0%;
 	position: absolute;
 	left: 23.49%;
 	right: 62.05%;
-	top: 60.35%;
+	top: 48.35%;
 	bottom: 0%;
 	width: 15%;
 	height: 39.6%;
@@ -4604,7 +4604,7 @@ bottom: 0%;
 	position: absolute;
 	left: 9.03%;
 	right: 86.16%;
-	top: 60.35%;
+	top: 48.35%;
 	bottom: 0%;
 	width: 5.03%;
 	height: 39.6%;
@@ -4615,7 +4615,7 @@ bottom: 0%;
 	width: 17.03%;
 	height: 15.51%;
 	right: 45.47%;
-	top: 73.85%;
+	top: 59.85%;
 	bottom: 10.63%;
 }
 
@@ -4635,14 +4635,14 @@ left: 0%;
 right: 90.2%;
 width: 9.7%;
 height: 100%;
-top: 0%;
+top: 10%;
 bottom: 1.17%;
 }
 .footer .logo1 .text1 .p1{
 	position: absolute;
 left: 10.8%;
 right: 79.42%;
-top: 0.59%;
+top: 10%;
 width: 9.7%;
 height: 100%;
 bottom: 0.47%;
@@ -4651,7 +4651,7 @@ bottom: 0.47%;
 	position: absolute;
 left: 21.73%;
 right: 67.87%;
-top: 0.59%;
+top: 10%;
 width: 9.7%;
 height: 100%;
 bottom: 0.47%;
@@ -4660,7 +4660,7 @@ bottom: 0.47%;
 	position: absolute;
 left: 32.65%;
 right: 57.57%;
-top: 0.59%;
+top: 10%;
 width: 9.7%;
 height: 100%;
 bottom: 0.47%;
@@ -4669,7 +4669,7 @@ bottom: 0.47%;
 	position: absolute;
 left: 43.87%;
 right: 46.34%;
-top: 0.59%;
+top: 10%;
 width: 9.7%;
 height: 100%;
 bottom: 0.58%;
@@ -4678,7 +4678,7 @@ bottom: 0.58%;
 	position: absolute;
 left: 53.9%;
 right: 36.31%;
-top: 0.59%;
+top: 10%;
 width: 9.7%;
 height: 100%;
 bottom: 0.58%;
@@ -4687,7 +4687,7 @@ bottom: 0.58%;
 	position: absolute;
 left: 69.04%;
 right: 21.17%;
-top: 0.94%;
+top: 10%;
 width: 9.7%;
 height: 100%;
 bottom: 0.12%;
@@ -4696,7 +4696,7 @@ bottom: 0.12%;
 	position: absolute;
 left: 80.14%;
 right: 10.08%;
-top: 0.94%;
+top: 10%;
 width: 9.7%;
 height: 100%;
 bottom: 0.23%;
@@ -4707,7 +4707,7 @@ left: 90.82%;
 right: 0%;
 width: 9.7%;
 height: 100%;
-top: 0.94%;
+top: 10%;
 bottom: 0%;
 }
 
@@ -5372,6 +5372,166 @@ bottom: 0%;
 	letter-spacing: -0.2px;
 	color: #FFFFFF;
 }
+
+
+.header .navigation .logo{
+	position: absolute;
+	left: 8.33%;
+	right: 72.03%;
+	top: 20%;
+	bottom: 0%;
+	width: 35%;
+	height: 58.8%;
+}
+
+.header .navigation  .logo .icon{
+	position: absolute;
+	left: 0%;
+	right: 69.51%;
+	top: 0%;
+	width: 29.17%;
+	height: 100%;
+	bottom: 0%;
+
+}
+
+.header .navigation  .logo .icon .vector{
+	position: absolute;
+	left: 0%;
+	right: 9.03%;
+	top: 0%;
+	width: 100%;
+	height: 100%;
+	bottom: 0%;
+}
+.header .navigation  .logo .icon .vector1{
+	position: absolute;
+	left: 76.5%;
+	right: 0%;
+	top: 18.02%;
+	height: 38%; 
+	width: 28.54%;
+	bottom: 45.63%;
+}
+.header .navigation  .logo .icon .vector2{
+	position: absolute;
+	left: 23.49%;
+	right: 62.05%;
+	top: 53.35%;
+	width: 15%;
+	height: 39.6%;
+}
+.header .navigation  .logo .icon .vector3{
+	position: absolute;
+	left: 9.03%;
+	right: 86.16%;
+	top: 53.35%;
+	width: 5.03%;
+	height: 39.6%;
+}
+
+.header .logo .now{
+	position: absolute;
+	left: 37.49%;
+	width: 17.03%;
+	height: 15.51%;
+	right: 45.47%;
+	top: 68.85%;
+	bottom: 10.63%;
+}
+
+.header .logo .text{
+position: absolute;
+	left: 37.22%;
+	right: 0%;
+	top: 15.92%;
+	width: 62.77%;
+	height: 31.25%;
+	bottom: 52.83%;
+}
+
+.header .logo .text .s{
+	position: absolute;
+left: 0%;
+right: 90.2%;
+width: 9.7%;
+height: 100%;
+top: 0%;
+bottom: 1.17%;
+}
+.header .logo .text .p{
+		position: absolute;
+left: 10.8%;
+right: 79.42%;
+top: 0.59%;
+width: 9.7%;
+height: 100%;
+bottom: 0.47%;
+}
+.header .logo .text .r{
+	position: absolute;
+left: 21.73%;
+right: 67.87%;
+top: 0.59%;
+width: 9.7%;
+height: 100%;
+bottom: 0.47%;
+}
+.header .logo .text .u{
+	position: absolute;
+left: 32.65%;
+right: 57.57%;
+top: 0.59%;
+width: 9.7%;
+height: 100%;
+bottom: 0.47%;
+}
+.header .logo .text .c{
+	position: absolute;
+left: 43.87%;
+right: 46.34%;
+top: 0.59%;
+width: 9.7%;
+height: 100%;
+bottom: 0.58%;
+}
+.header .logo .text .e{
+	position: absolute;
+left: 53.9%;
+right: 36.31%;
+top: 0.59%;
+width: 9.7%;
+height: 100%;
+bottom: 0.58%;
+}
+.header .logo .text .b{
+position: absolute;
+left: 69.04%;
+right: 21.17%;
+top: 0.94%;
+width: 9.7%;
+height: 100%;
+bottom: 0.12%;
+}
+.header .logo .text .o{
+	position: absolute;
+left: 80.14%;
+right: 10.08%;
+top: 0.94%;
+width: 9.7%;
+height: 100%;
+bottom: 0.23%;
+}
+.header .logo .text .x{
+	position: absolute;
+left: 90.82%;
+right: 0%;
+width: 9.7%;
+height: 100%;
+top: 0.94%;
+bottom: 0%;
+}
+
 
 }
 
